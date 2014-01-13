@@ -1,0 +1,32 @@
+
+Sean Leonard
+DT228/4
+Final Year Project
+2010/2011
+
+Setup Instructions
+
+This project runs on a Mac computer with the Xcode Bundle 3.2.5 using the simulator 4.2.
+
+	1	Open Xcode.
+	2	click 'open other...'.
+	3	Locate the project named soundplayer.xcodeproj and open it.
+	4	When the project is loaded click the 'Build and Debug' to run the simulator.
+
+	Please note that the directory called 'notes' and the caf audio 
+	file named 'tock' should be linked with the project. If they don't please
+	drag and drop them into the resources directory before running the 
+	simulator.
+
+	I have included with this project two examples of tabs which are .Plist files called 
+	"smoke" and "ainttalkingbout". These are tabs of the songs "Smoke on the water" and 
+	"Aint Talkin Bout Love". To used these files You have to locate the Iphone Applications 
+	folder. Heres the path for my computer: 
+
+	/Users/student/Library/Application Support/iPhone Simulator/4.2/Applications
+
+	Within this folder there are folders with names as serial numbers. The folder that was 
+	most recently created will probably be this apps folder. Within the Apps directory will 
+	be the 'Documents' directory which is where you can place the Plist tab files. When this 
+	is done you can use the tabs in the Simulator. You should see the names of the tabs when 
+	you click the 'open' button on the main interface. 

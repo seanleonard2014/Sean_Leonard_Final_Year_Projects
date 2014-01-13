@@ -1,0 +1,278 @@
+Tsoundplayer
+v7
+r0
+t312417049.525414
+cCheck dependencies
+cProcessInfoPlistFile /Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/Info.plist soundplayer-Info.plist
+cCompileXIB /Users/student/Documents/soundplayer/MainWindow.xib
+cCompileXIB /Users/student/Documents/soundplayer/soundplayerViewController.xib
+cCpResource build/Debug-iphonesimulator/soundplayer.app/red-button.png ../../Desktop/red-button.png
+cCpResource build/Debug-iphonesimulator/soundplayer.app/red-button.png ../../Desktop/red-button.png
+cProcessPCH /var/folders/u4/u4zSYZ2qHCKnuF7bqdsk7k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/soundplayer_Prefix-fcbppzclxvvbsyedxyeilgkysbde/soundplayer_Prefix.pch.gch soundplayer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/main.o /Users/student/Documents/soundplayer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/soundplayerAppDelegate.o /Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/soundplayerViewController.o /Users/student/Documents/soundplayer/Classes/soundplayerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVAudioPlayer.h
+c000000004CC12884000000000000145D
+t1287727236
+s5213
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.h
+c000000004CC128840000000000000733
+t1287727236
+s1843
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/student/Documents/soundplayer/../../Desktop/red-button.png
+c000000004CEE4A720000000000000E89
+t1290685042
+s3721
+
+N/Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.h
+c000000004CEEE0CF00000000000001F5
+t1290723535
+s501
+i<UIKit/UIKit.h>
+
+N/Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m
+c000000004CEEE0CF0000000000000AA7
+t1290723535
+s2727
+i"soundplayerAppDelegate.h"
+i"soundplayerViewController.h"
+
+N/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h
+c000000004CEEE2AC000000000000020D
+t1290724012
+s525
+i<UIKit/UIKit.h>
+
+N/Users/student/Documents/soundplayer/Classes/soundplayerViewController.m
+c000000004CEEE336000000000000076A
+t1290724150
+s1898
+i"soundplayerViewController.h"
+i<AVFoundation/AVAudioPlayer.h>
+i<AVFoundation/AVFoundation.h>
+
+N/Users/student/Documents/soundplayer/MainWindow.xib
+c000000004CEEE0CF0000000000004E59
+t1290723535
+s20057
+
+N/Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app
+t2
+s0
+
+N/Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app.dSYM
+t2
+s0
+
+N/Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/Info.plist
+t1290724247
+s607
+
+N/Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/MainWindow.nib
+t1290724248
+s1131
+
+N/Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/PkgInfo
+t1290724247
+s8
+
+N/Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/red-button.png
+t1290724248
+s3721
+
+N/Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/soundplayer
+t2
+s0
+
+N/Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/soundplayerViewController.nib
+t1290724248
+s2007
+
+N/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/main.o
+t1290724249
+s6300
+
+N/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/soundplayer.LinkFileList
+c000000004CEEE39700000000000001A7
+t1290724247
+s423
+
+N/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/soundplayerAppDelegate.o
+t2
+s0
+
+N/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/soundplayerViewController.o
+t2
+s0
+
+N/Users/student/Documents/soundplayer/main.m
+c000000004CEEE0CF000000000000016B
+t1290723535
+s363
+i<UIKit/UIKit.h>
+
+N/Users/student/Documents/soundplayer/soundplayerViewController.xib
+c000000004CEEE385000000000000583D
+t1290724229
+s22589
+
+N/Users/student/Documents/soundplayer/soundplayer_Prefix.pch
+c000000004CEEE0CF00000000000000BF
+t1290723535
+s191
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/u4/u4zSYZ2qHCKnuF7bqdsk7k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/soundplayer_Prefix-fcbppzclxvvbsyedxyeilgkysbde/soundplayer_Prefix.pch.gch
+t1290724249
+s15453392
+
+Nsoundplayer-Info.plist
+c000000004CEEE0CF000000000000038D
+t1290723535
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312417047#312417047#0(151"[WARN]Warning: Multiple build commands for output file /Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/red-button.png1(22@144"Warning: Multiple build commands for output file /Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/red-button.png312417047#18446744073709551615#0#0(1@0"0(0#1#0"8623930048#0"0#
+
+CCompileC build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/main.o /Users/student/Documents/soundplayer/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312417049.379769
+e312417049.435424
+r1
+xCompileC
+xbuild/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/main.o
+x/Users/student/Documents/soundplayer/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/student/Documents/soundplayer/main.m312417049#312417049#0(0"0(0#0#43"/Users/student/Documents/soundplayer/main.m8626748928#1972"    cd /Users/student/Documents/soundplayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-generated-files.hmap -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-own-target-headers.hmap -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-all-target-headers.hmap -iquote /Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-project-headers.hmap -F/Users/student/Documents/soundplayer/build/Debug-iphonesimulator -I/Users/student/Documents/soundplayer/build/Debug-iphonesimulator/include -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/DerivedSources/i386 -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/DerivedSources -include /var/folders/u4/u4zSYZ2qHCKnuF7bqdsk7k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/soundplayer_Prefix-fcbppzclxvvbsyedxyeilgkysbde/soundplayer_Prefix.pch -c /Users/student/Documents/soundplayer/main.m -o /Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/main.o0#
+
+CCompileC build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/soundplayerAppDelegate.o /Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312417049.381076
+e312417049.441108
+r0
+xCompileC
+xbuild/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/soundplayerAppDelegate.o
+x/Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m:10:
+o/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h:11: error: cannot find protocol declaration for 'AVAudioPlayerDelegate'
+o/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+o/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h:18: error: expected specifier-qualifier-list before 'AVAudioPlayer'
+lSLF07#2@77"Compile /Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m312417049#312417049#0(532"In file included from /Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m:10:/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h:11: error: cannot find protocol declaration for 'AVAudioPlayerDelegate'/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h:18: error: expected specifier-qualifier-list before 'AVAudioPlayer'3(4@60"Cannot find protocol declaration for 'AVAudioPlayerDelegate'312417049#96#145#2(7@91"In file included from /Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m312417049#18446744073709551615#0#0(6@69"/Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m312416335#10#0#10#0#0"0(13@136"Cannot find protocol declaration for 'AVAudioPlayerDelegate' in /Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312417049#18446744073709551615#0#0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312416812#11#0#11#0#0"0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312416812#11#0#11#0#0"0(4@65"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token312417049#241#150#2(7@91"In file included from /Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m312417049#18446744073709551615#0#0(6@69"/Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m312416335#10#0#10#0#0"0(13@141"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token in /Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312417049#18446744073709551615#0#0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312416812#16#0#16#0#0"0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312416812#16#0#16#0#19"expected * before *0(4@56"Expected specifier-qualifier-list before 'AVAudioPlayer'312417049#391#141#2(7@91"In file included from /Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m312417049#18446744073709551615#0#0(6@69"/Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m312416335#10#0#10#0#0"0(13@132"Expected specifier-qualifier-list before 'AVAudioPlayer' in /Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312417049#18446744073709551615#0#0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312416812#18#0#18#0#0"0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312416812#18#0#18#0#19"expected * before *0(0#0#69"/Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m8625482880#2016"    cd /Users/student/Documents/soundplayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-generated-files.hmap -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-own-target-headers.hmap -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-all-target-headers.hmap -iquote /Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-project-headers.hmap -F/Users/student/Documents/soundplayer/build/Debug-iphonesimulator -I/Users/student/Documents/soundplayer/build/Debug-iphonesimulator/include -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/DerivedSources/i386 -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/DerivedSources -include /var/folders/u4/u4zSYZ2qHCKnuF7bqdsk7k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/soundplayer_Prefix-fcbppzclxvvbsyedxyeilgkysbde/soundplayer_Prefix.pch -c /Users/student/Documents/soundplayer/Classes/soundplayerAppDelegate.m -o /Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/soundplayerAppDelegate.o1#
+
+CCompileC build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/soundplayerViewController.o /Users/student/Documents/soundplayer/Classes/soundplayerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312417049.435738
+e312417049.525291
+r0
+xCompileC
+xbuild/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/soundplayerViewController.o
+x/Users/student/Documents/soundplayer/Classes/soundplayerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/student/Documents/soundplayer/Classes/soundplayerViewController.m:9:
+o/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h:11: error: cannot find protocol declaration for 'AVAudioPlayerDelegate'
+o/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token
+o/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h:18: error: expected specifier-qualifier-list before 'AVAudioPlayer'
+o/Users/student/Documents/soundplayer/Classes/soundplayerViewController.m:17: error: no declaration of property 'audioPlayer' found in the interface
+o/Users/student/Documents/soundplayer/Classes/soundplayerViewController.m: In function '-[soundplayerViewController playSound]':
+o/Users/student/Documents/soundplayer/Classes/soundplayerViewController.m:22: warning: class 'soundplayerViewController' does not implement the 'AVAudioPlayerDelegate' protocol
+lSLF07#2@80"Compile /Users/student/Documents/soundplayer/Classes/soundplayerViewController.m312417049#312417049#0(986"In file included from /Users/student/Documents/soundplayer/Classes/soundplayerViewController.m:9:/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h:11: error: cannot find protocol declaration for 'AVAudioPlayerDelegate'/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h:16: error: expected '=', ',', ';', 'asm' or '__attribute__' before '*' token/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h:18: error: expected specifier-qualifier-list before 'AVAudioPlayer'/Users/student/Documents/soundplayer/Classes/soundplayerViewController.m:17: error: no declaration of property 'audioPlayer' found in the interface/Users/student/Documents/soundplayer/Classes/soundplayerViewController.m: In function '-[soundplayerViewController playSound]':/Users/student/Documents/soundplayer/Classes/soundplayerViewController.m:22: warning: class 'soundplayerViewController' does not implement the 'AVAudioPlayerDelegate' protocol5(4@60"Cannot find protocol declaration for 'AVAudioPlayerDelegate'312417049#98#145#2(7@94"In file included from /Users/student/Documents/soundplayer/Classes/soundplayerViewController.m312417049#18446744073709551615#0#0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.m312416950#9#0#9#0#0"0(13@136"Cannot find protocol declaration for 'AVAudioPlayerDelegate' in /Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312417049#18446744073709551615#0#0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312416812#11#0#11#0#0"0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312416812#11#0#11#0#0"0(4@65"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token312417049#243#150#2(7@94"In file included from /Users/student/Documents/soundplayer/Classes/soundplayerViewController.m312417049#18446744073709551615#0#0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.m312416950#9#0#9#0#0"0(13@141"Expected '=', ',', ';', 'asm' or '__attribute__' before '*' token in /Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312417049#18446744073709551615#0#0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312416812#16#0#16#0#0"0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312416812#16#0#16#0#19"expected * before *0(4@56"Expected specifier-qualifier-list before 'AVAudioPlayer'312417049#393#141#2(7@94"In file included from /Users/student/Documents/soundplayer/Classes/soundplayerViewController.m312417049#18446744073709551615#0#0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.m312416950#9#0#9#0#0"0(13@132"Expected specifier-qualifier-list before 'AVAudioPlayer' in /Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312417049#18446744073709551615#0#0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312416812#18#0#18#0#0"0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.h312416812#18#0#18#0#19"expected * before *0(4@63"No declaration of property 'audioPlayer' found in the interface312417049#534#148#0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.m312416950#17#0#17#0#0"0(22@89"Class 'soundplayerViewController' does not implement the 'AVAudioPlayerDelegate' protocol312417049#810#176#0(6@72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.m312416950#22#0#22#0#45"class '*' does not implement the '*' protocol0(0#0#72"/Users/student/Documents/soundplayer/Classes/soundplayerViewController.m8627195424#2022"    cd /Users/student/Documents/soundplayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-generated-files.hmap -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-own-target-headers.hmap -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-all-target-headers.hmap -iquote /Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-project-headers.hmap -F/Users/student/Documents/soundplayer/build/Debug-iphonesimulator -I/Users/student/Documents/soundplayer/build/Debug-iphonesimulator/include -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/DerivedSources/i386 -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/DerivedSources -include /var/folders/u4/u4zSYZ2qHCKnuF7bqdsk7k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/soundplayer_Prefix-fcbppzclxvvbsyedxyeilgkysbde/soundplayer_Prefix.pch -c /Users/student/Documents/soundplayer/Classes/soundplayerViewController.m -o /Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/Objects-normal/i386/soundplayerViewController.o1#
+
+CCompileXIB /Users/student/Documents/soundplayer/MainWindow.xib
+s312417047.855836
+e312417048.268273
+r1
+xCompileXIB
+x/Users/student/Documents/soundplayer/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib312417047#312417048#0(0"0(0#0#51"/Users/student/Documents/soundplayer/MainWindow.xib8627110752#568"    cd /Users/student/Documents/soundplayer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/MainWindow.nib /Users/student/Documents/soundplayer/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/student/Documents/soundplayer/soundplayerViewController.xib
+s312417047.856695
+e312417048.336184
+r1
+xCompileXIB
+x/Users/student/Documents/soundplayer/soundplayerViewController.xib
+lSLF07#2@40"CompileXIB soundplayerViewController.xib312417047#312417048#0(0"0(0#0#66"/Users/student/Documents/soundplayer/soundplayerViewController.xib8626726720#598"    cd /Users/student/Documents/soundplayer    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/soundplayerViewController.nib /Users/student/Documents/soundplayer/soundplayerViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/soundplayer.app/red-button.png ../../Desktop/red-button.png
+s312417048.269228
+e312417048.290663
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/soundplayer.app/red-button.png
+x../../Desktop/red-button.png
+lSLF07#2@33"Copy ../../Desktop/red-button.png312417048#312417048#0(0"0(0#0#65"/Users/student/Documents/soundplayer/../../Desktop/red-button.png8625681312#484"    cd /Users/student/Documents/soundplayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/student/Documents/soundplayer/../../Desktop/red-button.png /Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app0#
+
+CGenerateDSYMFile /Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app.dSYM /Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/soundplayer
+r0
+
+CLd /Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/soundplayer normal i386
+r0
+
+CProcessInfoPlistFile /Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/Info.plist soundplayer-Info.plist
+s312417047.851408
+e312417047.855741
+r1
+xProcessInfoPlistFile
+x/Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/Info.plist
+xsoundplayer-Info.plist
+lSLF07#2@30"Process soundplayer-Info.plist312417047#312417047#0(0"0(0#0#59"/Users/student/Documents/soundplayer/soundplayer-Info.plist8624240032#485"    cd /Users/student/Documents/soundplayer    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility soundplayer-Info.plist -genpkginfo /Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app/Info.plist0#
+
+CProcessPCH /var/folders/u4/u4zSYZ2qHCKnuF7bqdsk7k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/soundplayer_Prefix-fcbppzclxvvbsyedxyeilgkysbde/soundplayer_Prefix.pch.gch soundplayer_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s312417048.336304
+e312417049.379581
+r1
+xProcessPCH
+x/var/folders/u4/u4zSYZ2qHCKnuF7bqdsk7k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/soundplayer_Prefix-fcbppzclxvvbsyedxyeilgkysbde/soundplayer_Prefix.pch.gch
+xsoundplayer_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@33"Precompile soundplayer_Prefix.pch312417048#312417049#0(0"0(0#0#59"/Users/student/Documents/soundplayer/soundplayer_Prefix.pch8625544768#1862"    cd /Users/student/Documents/soundplayer    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-generated-files.hmap -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-own-target-headers.hmap -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-all-target-headers.hmap -iquote /Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/soundplayer-project-headers.hmap -F/Users/student/Documents/soundplayer/build/Debug-iphonesimulator -I/Users/student/Documents/soundplayer/build/Debug-iphonesimulator/include -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/DerivedSources/i386 -I/Users/student/Documents/soundplayer/build/soundplayer.build/Debug-iphonesimulator/soundplayer.build/DerivedSources -c /Users/student/Documents/soundplayer/soundplayer_Prefix.pch -o /var/folders/u4/u4zSYZ2qHCKnuF7bqdsk7k+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/soundplayer_Prefix-fcbppzclxvvbsyedxyeilgkysbde/soundplayer_Prefix.pch.gch0#
+
+CTouch /Users/student/Documents/soundplayer/build/Debug-iphonesimulator/soundplayer.app
+r0
+

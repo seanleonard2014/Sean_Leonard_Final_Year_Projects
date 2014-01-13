@@ -1,0 +1,4 @@
+/Users/student/Documents/soundplayer/Classes/AQplayerController.mm:9:30: error: openingController.h: No such file or directory
+/Users/student/Documents/soundplayer/Classes/AQplayerController.mm:12: warning: cannot find interface declaration for 'openingController'
+/Users/student/Documents/soundplayer/Classes/AQplayerController.mm:14: error: no declaration of property 'button1' found in the interface
+/Users/student/Documents/soundplayer/Classes/AQplayerController.mm:15: error: no declaration of property 'button2' found in the interface
